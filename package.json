@@ -1,0 +1,23 @@
+{
+  "name": "anonchat",
+  "version": "1.0.0",
+  "description": "Anonymous chat to test socket.io theories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihilates/anonChat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nihilates/anonChat/issues"
+  },
+  "homepage": "https://github.com/nihilates/anonChat#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  }
+}
